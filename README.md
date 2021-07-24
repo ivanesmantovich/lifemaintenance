@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lifemaintenance
+- 👀 I’m interested in JS 👾
+- 🌱 I’m currently learning JS 👾👾
+- 💞️ I’m looking to writing some JS code 👾👾👾
+- 👾 How to reach me: ivanesmantovich@gmail.com
